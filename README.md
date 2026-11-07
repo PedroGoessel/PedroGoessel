@@ -1,1 +1,1 @@
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Meu+Perfil&fontSize=50)
+   <img src="./banner-cybersecurity.svg" alt="Cybersecurity: deixe o invasor entrar, eu vejo cada passo" width="100%">
